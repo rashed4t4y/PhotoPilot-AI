@@ -225,7 +225,7 @@ Contributions are welcome! Here's how to contribute:
 
 ## 👨‍💻 Author
 
-**Rashed Ahmed**
+**Rashed Ul Islam**
 - GitHub: [@rashed4t4y](https://github.com/rashed4t4y)
 
 ## 🙏 Acknowledgments
@@ -237,6 +237,7 @@ Contributions are welcome! Here's how to contribute:
 ## 📞 Contact
 
 For questions, suggestions, or feedback, please feel free to:
+- rashedchowdhury1825@gmail.com
 - Open an issue on GitHub
 - Contact via GitHub discussions
 
